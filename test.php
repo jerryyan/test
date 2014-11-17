@@ -1,3 +1,3 @@
 <?php
 echo "hellow world";
-echo 1+6;
+echo 1+5;
